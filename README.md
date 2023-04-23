@@ -5,6 +5,6 @@
    </p>
    ## :hammer:Funcionalidades del proyecto
 
-`Funcionalidad 1`: Covierte un selecto grupo de monedas segun la seleccion del usuario `
--Funcionalidad 2`: Convierte las principales medidas de temperatura egun la seleccion del usuario`
+`Funcionalidad 1`: Covierte un selecto grupo de monedas segun la seleccion del usuario- `
+Funcionalidad 2`: Convierte las principales medidas de temperatura egun la seleccion del usuario`
 
